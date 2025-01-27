@@ -20,6 +20,7 @@ To run this project, ensure you have the following:
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/HotelManagementSystem.git
+   (https://github.com/ThanujaPinninti/Hotel/blob/main/HotelManagement.java)
 2. Open the project in your IDE or text editor.
 3. Compile and run the HotelManagement.java file:
    javac HotelManagement.java
